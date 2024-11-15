@@ -53,4 +53,4 @@ The model in this directory has been developed by the *NeuroNauti* team, compose
 * [Matteo Beltrante](https://github.com/Beltrante)
 * [Lorenzo Rossi](https://github.com/lorossi)
 
-in the context of the course [Artificial Neural Networks and Deep Learning](http://chrome.ws.dei.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning) at @PoliMi (Politecnico di Milano), AY2023/24.
+In the context of the course [Artificial Neural Networks and Deep Learning](http://chrome.ws.dei.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning) at @PoliMi (Politecnico di Milano), AY2023/24.
